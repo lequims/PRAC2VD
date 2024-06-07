@@ -26,6 +26,9 @@ web de Dades Obertes de la Generalitat de Catalunya
 icienci](https://administraciodigital.gencat.cat/ca/dades/dades-obertes/informacio-practica/ll
 icienci). 
 
+Enllaç al projecte de github
+[https://github.com/lequims/PRAC2VD/]
+
 **Alumne**: Miquel Piulats Mateu  
 **Assignatura**: Visualització de dades  
 Màster en ciència de dades  
