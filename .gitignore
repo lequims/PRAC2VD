@@ -1,0 +1,17 @@
+# Ignorar archivos .env
+.env
+
+# Ignorar directorios node_modules
+node_modules/
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar directorios de compilación
+/build
+/dist
+
+# Ignorar archivos temporales que pueden ser creados por editores
+*.swp
+*~
+.DS_Store
