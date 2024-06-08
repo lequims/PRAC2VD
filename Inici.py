@@ -28,6 +28,9 @@ icienci).
 
 Enllaç al projecte de github
 [https://github.com/lequims/PRAC2VD/]
+            
+Enllaç al projecte a streamlit
+[https://prac2vdmpiulats.streamlit.app/]
 
 **Alumne**: Miquel Piulats Mateu  
 **Assignatura**: Visualització de dades  
