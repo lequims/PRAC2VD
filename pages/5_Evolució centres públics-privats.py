@@ -2,9 +2,9 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-st.set_page_config(page_title='Evolució de la oferta formativa', layout='wide')
-st.title('Evolució de la oferta formativa')
-st.write('Evolució de la oferta formativa')
+st.set_page_config(page_title='Evolució de la oferta formativa a centres públics i privats', layout='wide')
+st.title('Evolució de la oferta formativa a centres públics i privats')
+
 
 # Dades matrícules
 oferta_matricula = pd.read_csv('data/Alumnes_matriculats_per_ensenyament_i_unitats_dels_centres_docents_20240520.csv', low_memory=False)
