@@ -92,7 +92,6 @@ def plot_interactive(dataframe):
                   labels={
                       "value": "Total de matrícules",  
                       "variable": "Tipus"  
-             
                   },
                   title='Evolució de matrícules por curs escolar',
                   color_discrete_map=color_map)

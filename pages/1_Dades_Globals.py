@@ -105,5 +105,9 @@ st.plotly_chart(fig)
 
 
 
+st.write(oferta_matricula.columns)
+
+
+
 
 
