@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-st.set_page_config(page_title='Evolució de la oferta formativa a centres públics i privats', layout='wide')
-st.title('Evolució de la oferta formativa a centres públics i privats')
+st.set_page_config(page_title='Evolució de les matrícules a centres públics i privats', layout='wide')
+st.title('Evolució de les matrícules a centres públics i privats')
 
 
 # Dades matrícules
